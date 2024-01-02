@@ -55,11 +55,11 @@ export default function Home() {
           </h2>
 
           <p>
-            Claiming your $PEACE tokens is the first step to becoming a part of this revolutionary community. Here's how to get started:
+            Claiming your &aposPEACE tokens is the first step to becoming a part of this revolutionary community. Here's how to get started:
           </p>
 
           <p>
-            1. Acquire some Mumbai MATIC: Since $PEACE is initially deployed on the Mumbai testnet, you'll need some testnet MATIC to cover gas fees for claiming your tokens. You can get free Mumbai MATIC from various faucets, like Polygon Faucet (https://faucet.polygon.technology/).
+            1. Acquire some Mumbai MATIC: Since &aposPEACE is initially deployed on the Mumbai testnet, you'll need some testnet MATIC to cover gas fees for claiming your tokens. You can get free Mumbai MATIC from various faucets, like Polygon Faucet (https://faucet.polygon.technology/).
           </p>
 
           <p>
