@@ -1,9 +1,4 @@
-.container {
-  width: 100%;
-  max-width: 1440px;
-  padding: 0 1rem;
-  margin: 0 auto;
-}
+
 
 .gradientText0 {
   background: -webkit-linear-gradient(#bfa3da, #84309c, #c735b0);
@@ -43,7 +38,10 @@
 .title {
   line-height: 1.15;
   font-size: 4rem;
+  margin-top: 3rem;
 }
+
+
 
 .title,
 .description {
@@ -142,4 +140,53 @@
 }
 .logo img {
   filter: invert(1);
+}
+
+
+
+.container {
+  width: 100%;
+  max-width: 1440px;
+  padding: 0 1rem;
+  margin: 0 auto;
+}
+
+.claim {
+  margin-top: 6rem;
+}
+
+.input {
+  display: flex;
+  height: 40px;
+  margin-top: 3rem;
+}
+
+.input input {
+  padding: 1rem;
+  margin-right: 1rem;
+  border-radius: .5rem;
+}
+
+.input button {
+  padding: 1rem;
+  margin-right: 1rem;
+  display: flex;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  background-color: black;
+  color: white;
+  font-size: large;
+  border: none;
+  border-radius: .5rem;
+  height: 100%;
+  cursor: pointer;
+}
+
+.connectWallet {
+  margin: 1rem 0;
+}
+
+.info {
+  margin: 3rem 0;
 }
